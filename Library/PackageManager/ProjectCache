@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638220984561724713
-    m_Hash: 1515549601
+      ticks: 638221250076159723
+    m_Hash: 1818833217
   m_LockFileStatus:
     m_FilePath: C:/Projects/2D-Redemption/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638220984580583950
-    m_Hash: 404437029
+      ticks: 638221250076214846
+    m_Hash: 2489351137
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.collab-proxy@2.0.4
+    - packageId: com.unity.collab-proxy@2.0.5
       testable: 0
       isDirectDependency: 1
-      version: 2.0.4
+      version: 2.0.5
       source: 1
-      resolvedPath: C:\Projects\2D-Redemption\Library\PackageCache\com.unity.collab-proxy@2.0.4
+      resolvedPath: C:\Projects\2D-Redemption\Library\PackageCache\com.unity.collab-proxy@2.0.5
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -34,7 +34,7 @@ m_PackageAssets:
         email: 
         url: 
       category: Editor
-      type: asset
+      type: assets
       description: The package gives you the ability to use Unity Version Control
         in the Unity editor. To use Unity Version Control, a subscription is required.
         Learn more about how you can get started for free by visiting plasticscm.com.
@@ -146,20 +146,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 638176024310000000
+      datePublishedTicks: 638218079810000000
       documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: dc15ef2ed609e8c19d0525a46c5bf7dd78df8432
+        revision: 7f68049e8cae5b51ad0d17cc01b8c6e802bf3866
         path: 
-    - packageId: com.unity.ide.rider@3.0.21
+    - packageId: com.unity.ide.rider@3.0.22
       testable: 0
       isDirectDependency: 1
-      version: 3.0.21
+      version: 3.0.22
       source: 1
-      resolvedPath: C:\Projects\2D-Redemption\Library\PackageCache\com.unity.ide.rider@3.0.21
+      resolvedPath: C:\Projects\2D-Redemption\Library\PackageCache\com.unity.ide.rider@3.0.22
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -272,13 +272,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 638175749180000000
+      datePublishedTicks: 638211305930000000
       documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-        revision: bb7732dcafe867368246b7661dda05368b74dd8e
+        revision: 1f4f2178384a8da373435c9912afcca7d6bb823a
         path: 
     - packageId: com.unity.ide.visualstudio@2.0.18
       testable: 0
